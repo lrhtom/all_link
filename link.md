@@ -54,6 +54,7 @@ claudecode cursor
 - **状态管理**：`Pinia`（替代 Vuex）
 
 ### 3. 后端开发
+py/java/cpp/c#
 - **运行时**：`Node.js Express`
 - **语言**：`TypeScript`
 - **前后端协作**：`WebSocket（基于 Socket.io 库）/get/post`

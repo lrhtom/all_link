@@ -1,3 +1,5 @@
+如果搜索不到问题换英语然后去谷歌用英语搜索一遍
+
 ##算法竞赛
 牛客（周5/7）
 https://ac.nowcoder.com/acm/contest
@@ -22,7 +24,7 @@ apipost/postman
 figma(ui在线设计)
 
 ##协同开发
-git/飞书/企业微信/在线表格/apifox/github
+git/飞书/企业微信/在线表格/apifox/github/localsand(文件传输工具)
 
 ##vpn
 节点:ikuuu
